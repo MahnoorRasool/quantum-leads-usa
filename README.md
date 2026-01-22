@@ -1,2 +1,9 @@
-# quantum-leads-usa
-Enterprise-grade B2B lead generation platform for the US market. Connecting advertisers with high-intent customers through verified inbound calls and exclusive leads. Built with React 19, Tailwind CSS, and Express.js.
+
+## Run Locally
+**Prerequisites:**  Node.js
+1. Install dependencies:
+   `npm install`
+   `npm run`
+   
+3. Run the app:
+   `npm run dev`
